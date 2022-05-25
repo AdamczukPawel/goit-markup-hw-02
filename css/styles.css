@@ -39,11 +39,13 @@ header {
 }   
 section > .title {
     color: #FFFFFF;
-    background-color: #2F303A;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
     letter-spacing: 0.06em;
+}
+.advert {
+    background-color: #2F303A;
 }
 h2 {
     font-weight: 700;
